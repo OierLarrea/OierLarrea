@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola, soy Oier
 
-<!--
-**OierLarrea/OierLarrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador de software junior y estudiante de DAM.
 
-Here are some ideas to get you started:
+Técnico superior de Desarrollo de Aplicaciones Multiplataforma y en proceso de ser Técnico Superior de Desarrollo de Aplicaciones Web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy ampliando mi experiencia en diferentes áreas del desarrollo, trabajando con distintos lenguajes, herramientas y tecnologías.
+
+## Tecnologías
+
+Java · SQL · HTML · CSS · AL · Git
+
+## Proyectos
+
+Aquí encontrarás algunos de mis proyectos personales y académicos, realizados durante mi formación y experiencia como desarrollador.
+
+Contacto: oierlarrea06@gmail.com
